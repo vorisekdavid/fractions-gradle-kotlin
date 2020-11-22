@@ -1,0 +1,5 @@
+/Users/davidvorisek/Documents/GitHub/fractions-gradle/src/test/java/TestAddition.kt
+/Users/davidvorisek/Documents/GitHub/fractions-gradle/src/test/java/TestSubtraction.kt
+/Users/davidvorisek/Documents/GitHub/fractions-gradle/src/test/java/NotImplementedFraction.kt
+/Users/davidvorisek/Documents/GitHub/fractions-gradle/src/test/java/TestDivision.kt
+/Users/davidvorisek/Documents/GitHub/fractions-gradle/src/test/java/TestMultiplication.kt
